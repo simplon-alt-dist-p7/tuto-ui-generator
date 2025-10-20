@@ -154,23 +154,6 @@ Avant envoyer à V0/Bolt:
 
 ---
 
-## Prompt préambule V0 (IMPORTANT)
-
-**Toujours ajouter AVANT prompt écran:**
-
-```
-WIREFRAME ONLY. Use default shadcn/ui components with neutral gray palette.
-NO custom colors, NO branding, NO illustrations.
-Focus on layout structure, spacing, and functionality.
-I will apply design system later.
-
-[VOTRE PROMPT ÉCRAN ICI]
-```
-
-**Pourquoi:** Force V0 à générer structure propre sans style = économie crédits + itérations rapides.
-
----
-
 ## Composants shadcn/ui disponibles
 
 Liste référence composants à utiliser:
