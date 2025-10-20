@@ -23,10 +23,6 @@ Guide complet pour générer interfaces propres avec AI builders (V0, Bolt, Lova
 
 **Pourquoi?** Sans contexte, AI génère composants génériques déconnectés du métier.
 
-**Sources contexte:**
-- Memory bank: `aidd-docs/memory-bank/PROJECT_BRIEF.md`
-- User stories: `aidd-docs/user-stories/*.md`
-- Roadmap: `docs/ROADMAP.md`
 
 ---
 
