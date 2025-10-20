@@ -51,12 +51,16 @@ Guide complet pour générer interfaces propres avec AI builders (V0, Bolt, Lova
 **URL:** [v0.dev](https://v0.dev)
 
 1. Nouveau projet V0
-2. Coller prompt des écrans
-3. **AJOUTER en préambule**: "WIREFRAME ONLY, default shadcn, no colors"
-4. Générer
-5. Vérifier structure layout/composants (ignorer couleurs)
-6. Répéter pour chaque écran
-7. **Itérer jusqu'à structure parfaite** (layout, spacing, responsive)
+2. **IMPORTANT**: Coller TOUS les prompts écrans d'un coup (séparés par `---`)
+3. **AJOUTER en préambule global**: "WIREFRAME ONLY, default shadcn, no colors"
+4. Générer (V0 crée multi-pages automatiquement)
+5. Vérifier structure layout/composants chaque écran (ignorer couleurs)
+6. **Itérer jusqu'à structure parfaite** (layout, spacing, responsive)
+
+**⚡ Pourquoi tous d'un coup?**
+- V0 comprend navigation entre écrans
+- Cohérence composants/layouts automatique
+- Économie crédits (1 projet vs 6 projets séparés)
 
 **Checklist wireframe validé:**
 - [ ] Layout responsive (mobile/tablet/desktop)
